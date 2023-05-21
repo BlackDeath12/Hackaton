@@ -1,0 +1,23 @@
+.widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 91.64px;
+  margin-left: 0;
+  margin-top: 0;
+  min-width: 95px;
+}
+
+.screenshot-2023-05-20-225713-1 {
+  object-fit: cover;
+  width: 100%;
+}
+
+.widget-wrapper.widget-wrapper-1 {
+  height: 86.03px;
+  min-width: 96.17px;
+}
+
+.widget-wrapper.widget-wrapper-1 .screenshot-2023-05-20-225713-1 {
+  width: 100%;
+}
+

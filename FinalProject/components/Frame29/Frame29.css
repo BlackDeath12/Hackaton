@@ -1,0 +1,53 @@
+.frame-29 {
+  display: flex;
+  height: 44px;
+  left: 130px;
+  position: absolute;
+  top: 123px;
+  width: 81px;
+}
+
+.widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  min-width: 81px;
+}
+
+.screenshot-2023-05-20-214423-2 {
+  object-fit: cover;
+  width: 100%;
+}
+
+.frame-29.frame-28 {
+  height: 75px;
+  left: 187px;
+  top: 152px;
+  width: 79px;
+}
+
+.frame-29.frame-28 .widget-wrapper {
+  height: 75.49px;
+  margin-left: 0;
+  margin-top: 0;
+  min-width: 79px;
+}
+
+.frame-29.frame-28 .screenshot-2023-05-20-214423-2 {
+  width: 100%;
+}
+
+.frame-29.frame-25 {
+  height: 81px;
+  left: 139px;
+  top: 49px;
+  width: 79px;
+}
+
+.frame-29.frame-25 .widget-wrapper {
+  min-width: 79px;
+}
+
+.frame-29.frame-25 .screenshot-2023-05-20-214423-2 {
+  width: 100%;
+}
+

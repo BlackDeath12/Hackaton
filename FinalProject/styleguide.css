@@ -1,0 +1,23 @@
+:root { 
+  --black: #000000;
+  --chicago: #5a5757;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 24px;
+  --font-size-s: 22px;
+  --font-size-xl: 38px;
+  --font-size-xs: 16px;
+  --font-size-xxl: 48px;
+  --font-size-xxs: 14px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
+}
+.inter-semi-bold-black-38px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
